@@ -1,0 +1,62 @@
+body {
+  background-color: #FA2FB5;
+  background-image: url(https://www.cpomagazine.com/wp-content/uploads/2022/01/youre-not-paranoid-not-preparing-for-insider-threats-puts-your-data-at-risk_1500.jpg);
+}
+
+
+hr {
+  color: purple;
+  border-style: none;
+  border-top-style: dotted;
+  border-width: thick;
+  width: 30%;
+}
+
+.myname {
+  margin-left: 660px;
+}
+
+.myphoto {
+  margin-left: 600px;
+}
+.table {
+  margin-left: 600px;
+}
+.alltext {
+  font-family: Comic Sans MS;
+  color: white;
+}
+
+
+.twitter {
+  height: 320px;
+  width: 320px;
+}
+
+.fb {
+  height: 320px;
+  width: 500px;
+}
+
+.insta {
+  height: 275px;
+  width: 300px;
+}
+
+.contact {
+  height: 70px;
+  width: 100px;
+}
+
+.home {
+  height: 70px;
+  width: 100px;
+}
+.email {
+  height: 70px;
+  width: 100px;
+}
+.telephone {
+  height: 70px;
+  width: 100px;
+}
